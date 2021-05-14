@@ -32,9 +32,10 @@
 
         <TextView
             android:id="@+id/bio_text"
+            style="@style/NameStyle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/bio"
-            style="@style/NameStyle" />
+            android:lineSpacingMultiplier="1.2"
+            android:text="@string/bio" />
     </ScrollView>
 </LinearLayout>

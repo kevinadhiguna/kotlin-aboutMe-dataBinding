@@ -17,7 +17,7 @@
         style="@style/NameStyle" />
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/star_image"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:srcCompat="@android:drawable/btn_star_big_on" />

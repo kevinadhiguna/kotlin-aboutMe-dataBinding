@@ -6,4 +6,4 @@ An about me Android app powered by Kotlin. This is a part of [Google Codelabs](h
 - [Android Kotlin Fundamentals: LinearLayout using the Layout Editor](https://developer.android.com/codelabs/kotlin-android-training-linear-layout)
 - [Android Kotlin Fundamentals: Add user interactivity](https://developer.android.com/codelabs/kotlin-android-training-interactivity)
 
-
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/kotlin-about-me)](https://github.com/kevinadhiguna)

@@ -51,5 +51,8 @@ class MainActivity : AppCompatActivity() {
         editText.visibility = View.VISIBLE
         doneButton.visibility = View.VISIBLE
         view.visibility = View.GONE
+
+        // Set the focus to the edit text
+        editText.requestFocus()
     }
 }

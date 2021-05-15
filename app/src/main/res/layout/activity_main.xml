@@ -37,6 +37,12 @@
         android:fontFamily="@font/roboto"
         android:text="@string/done" />
 
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
     <ImageView
         android:id="@+id/star_image"
         android:layout_width="match_parent"

@@ -7,6 +7,7 @@ An about me Android app powered by Kotlin. This is a part of [Google Codelabs](h
 - [Android Kotlin Fundamentals: Add user interactivity](https://developer.android.com/codelabs/kotlin-android-training-interactivity)
 
 <div align="center">
+  <img src="https://s3.gifyu.com/images/amhjewgjrw4kjrwf.jpg" alt="about me app - Kotlin Android" height="500px" border="0" />
   <img src="https://s3.gifyu.com/images/am1df53j43k2j4.jpg" alt="about me app - Kotlin Android" height="500px" border="0" />
 </div>
 <br/>

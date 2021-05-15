@@ -27,6 +27,12 @@
         android:textAlignment="center"
         android:text="" />
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
     <ImageView
         android:id="@+id/star_image"
         android:layout_width="match_parent"

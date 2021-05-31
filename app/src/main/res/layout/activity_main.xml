@@ -4,7 +4,7 @@
 
     <data>
         <variable
-            name="MyName"
+            name="myName"
             type="com.example.aboutme.MyName"/>
     </data>
 
@@ -21,8 +21,12 @@
             style="@style/NameStyle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/name"
+            android:text="@={myName.name}"
             android:textAlignment="center" />
+        <!--
+            @={} is a directive to get the data that is referenced inside the curly braces.
+            myName references the myName variable that you previously defined, which points to the myName data class and fetches the name property from the class.
+        -->
 
         <EditText
             android:id="@+id/nickname_edit"

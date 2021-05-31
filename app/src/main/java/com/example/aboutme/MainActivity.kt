@@ -21,6 +21,9 @@ class MainActivity : AppCompatActivity() {
         // REPLACED :  setContentView(R.layout.activity_main)
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main) // Replaces setContextView()
 
+        // Set the value of the myName variable in the layout file to the value of the myName variable that you just declared. You can't access the variable in the XML directly. You need to access it through the binding object.
+        binding.myName = myName
+
         // REPLACED :
         // findViewById<Button>(R.id.done_button).setOnClickListener {
         //     addNickname(it) // <- it refers to the done_button, which is the view passed as the argument

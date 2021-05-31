@@ -1,4 +1,4 @@
-# About Me app 🙋
+# About Me app 🙋 - with Data Binding
 
 <img src="https://s3.gifyu.com/images/am.png" alt="about me app - Kotlin Android" border="0" />
 

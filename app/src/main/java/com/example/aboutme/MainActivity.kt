@@ -13,6 +13,9 @@ import com.example.aboutme.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
+    // Create actual data
+    private val myName: MyName = MyName("Kai Doe")
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         // REPLACED :  setContentView(R.layout.activity_main)
